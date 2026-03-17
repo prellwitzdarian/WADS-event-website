@@ -327,7 +327,7 @@ header .navigation li a:hover {
 
 @media (min-width: 769px) {
   .menu-toggle {
-    display: none;
+    display: none !important;
   }
   header .navigation {
     max-height: none;
@@ -339,40 +339,5 @@ header .navigation li a:hover {
     right: auto;
     width: auto;
     background-color: transparent;
-  }
-  section {
-    padding: 80px 30px;
-  }
-
-  .container {
-    padding: 0 20px;
-  }
-
-  .schedule-section h1 {
-    font-size: 2.5rem;
-  }
-
-  .schedule-table th,
-  .schedule-table td {
-    padding: 12px 10px;
-  }
-
-  .postercontent {
-    justify-content: center;
-  }
-
-  .posterbox {
-    max-width: 320px;
-  }
-  header {
-    padding: 10px 20px;
-  }
-
-  header .navigation li {
-    margin-left: 20px;
-  }
-
-  header .navigation li a {
-    font-size: 16px;
   }
 }

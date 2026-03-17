@@ -244,7 +244,7 @@ span {
 
 @media (min-width: 769px) {
   .menu-toggle {
-    display: none;
+    display: none !important;
   }
   header .navigation {
     max-height: none;
