@@ -74,7 +74,7 @@ header .navigation li a:hover {
 span {
   color: rgb(214, 110, 128);
   font-weight: 700;
-  font-size: 60px;
+  font-size: 80px;
 }
 
 .banner-content {
@@ -111,7 +111,7 @@ span {
 .what-we-do h2 {
   font-size: 2.2rem;
   margin-bottom: 16px;
-  color: #7b3b7c;
+  color: rgb(0, 180, 203);
 }
 
 .what-we-do p {
@@ -157,9 +157,9 @@ span {
 }
 
 .about-content h2 {
-  font-size: 2.2rem;
+  font-size: 40px;
   margin-bottom: 16px;
-  color: #7b3b7c;
+  color: rgb(129, 51, 129);
 }
 
 .about-content p {

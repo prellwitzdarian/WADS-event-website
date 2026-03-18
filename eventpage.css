@@ -14,7 +14,7 @@ body {
 span {
   color: rgb(214, 110, 128);
   font-weight: 700;
-  font-size: 60px;
+  font-size: 80px;
 }
 
 p {
@@ -190,14 +190,15 @@ header .navigation li a:hover {
 }
 
 .posters .titletext h2 {
-  font-size: 2.8rem;
-  color: #7b3b7c;
+  font-size: 40px;
+  font-weight: 700;
+  color: rgb(129, 51, 129);
   margin-bottom: 14px;
 }
 
 .posters .titletext p {
-  font-size: 1.1rem;
-  color: #05b6d5;
+  font-size: 18px;
+  color: rgb(109, 99, 201);
   font-weight: 300;
 }
 

@@ -207,13 +207,13 @@ header .navigation li a:hover {
 .fanpics .titletext {
   font-size: 40px;
   font-weight: 700;
-  color: rgb(123, 59, 124);
+  color: rgb(129, 51, 129);
   text-align: center;
 }
 .fanpics .titletext p {
   font-size: 18px;
   font-weight: 300;
-  color: rgb(65, 121, 199);
+  color: rgb(109, 99, 201);
   text-align: center;
   margin-top: 20px;
   margin-bottom: 40px;
@@ -230,7 +230,7 @@ header .navigation li a:hover {
 }
 .poll-content p {
   font-size: 1.2rem;
-  color: rgb(65, 121, 199);
+  color: rgb(109, 99, 201);
   margin-bottom: 30px;
 }
 .poll-content form {
